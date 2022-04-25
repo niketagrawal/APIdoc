@@ -10,7 +10,7 @@ Welcome to APIdoc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   apiref/mymodule.rst
 
 Indices and tables
 ==================

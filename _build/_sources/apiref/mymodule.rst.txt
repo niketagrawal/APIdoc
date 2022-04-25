@@ -1,8 +1,0 @@
-My module
-=========
-
-.. automodule:: apidoc.mymodule
-
-.. autofunction:: multiplication_table
-
-.. autofunction:: subtract

@@ -1,4 +1,4 @@
 .vscode/
-#build/  #github must be able to find index.html inside the build directory
+_build/  
 __pycache__/
 

@@ -30,6 +30,11 @@ jobs:
         with:
            python-version: "3.8"
 
+      # Remove docs/_build/ from gitignore
+      - name: overwrite gitignore
+        run: |
+           touch .gitignore
+
       # Install dependencies to build the docs
       - name: Install dependencies
         run: | 

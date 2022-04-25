@@ -46,3 +46,17 @@ def subtract(a: int, b: int) -> int:
     difference = a - b
     return difference
 
+def add(a: int, b: int) -> int:
+    """Adds two numbers
+
+    Parameters
+    ----------
+    a : integer
+    b : integer
+
+    Returns
+    -------
+    sum : integrer
+    """
+    sum = a - b
+    return sum

@@ -2,3 +2,4 @@ sphinx_rtd_theme
 sphinx
 linkify-it-py
 numpy
+ghp-import
